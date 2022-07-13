@@ -1,4 +1,4 @@
-# Ejericiospy
+# Ejericios en Python
 
 Ejercicio 1
 Ingresar cualquier número y calcular su raíz cuadrada.
